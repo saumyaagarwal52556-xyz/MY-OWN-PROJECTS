@@ -1,0 +1,19 @@
+
+.heading{
+    height: auto;
+    color:white;
+    
+    text-align: end;
+    font-size: 8rem;
+    letter-spacing: 5px;
+    padding: 5px;
+    text-align: center;
+} 
+.heading button{
+    width: 10px;
+    height: 10px;
+    margin-left: 2px;
+    margin-right: auto;
+    padding: 2px;
+    border: 1px solid black;
+}

@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&family=Pinyon+Script&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+  height: 100%;
+  width: 100%;
+  background-color: rgb(251, 241, 229);
+  margin: 0;
+  padding: 0;
+}
+
+p{
+  font-family: "Pinyon Script", cursive;
+}
+
