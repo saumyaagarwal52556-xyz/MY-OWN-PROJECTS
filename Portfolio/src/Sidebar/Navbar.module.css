@@ -1,0 +1,18 @@
+
+.Nav {
+    border: 2px solid black;
+    position: relative;   
+}
+
+.Nav ul{
+    color: black;
+    transition: ease-in 10s ;
+    text-decoration: none;
+    list-style: none;
+}
+.Nav ul li{
+    padding: 2px;
+    margin: 2px;
+    text-align: left;
+}
+

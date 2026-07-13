@@ -4,15 +4,14 @@
 
 @import url('https://fonts.googleapis.com/css2?family=MonteCarlo&family=Pinyon+Script&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-*{
-  height: 100%;
+* {
+  height: auto;
   width: 100%;
   background-color: rgb(251, 241, 229);
-  margin: 0;
+  margin: 10;
   padding: 0;
 }
 
-p{
+p {
   font-family: "Pinyon Script", cursive;
 }
-
