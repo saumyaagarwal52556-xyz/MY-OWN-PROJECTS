@@ -12,8 +12,8 @@ const App = () => {
       <div className="flex flex-col w-full min-h-screen">
         <Home />
         <Aboutme />
-        {/* <Project />
-        <Contact /> */}
+         <Project />
+        <Contact /> 
         </div>
     </>
   )
