@@ -1,26 +1,14 @@
-.side{
-    display: flex;
-    flex-direction: row;
-    min-height: 0;
-    
-}
-.left{
-    flex: 2;
-}
 .heading{
-    height: 50px;
-    color:white;
     align-items: center;
+    gap: 10px;
+    
+    height: 50px;
+    padding: 5px;
+    margin-bottom: 7rem;
+    
     font-size: 8rem;
     letter-spacing: 5px;
-    padding: 5px;
     text-align: center;
+
+    color:black;
 } 
-.left button{
-    width: auto;
-    height: auto;
-    margin-left: 2px;
-    margin-right: auto;
-    padding: 2px;
-    border: 1px solid black;
-}

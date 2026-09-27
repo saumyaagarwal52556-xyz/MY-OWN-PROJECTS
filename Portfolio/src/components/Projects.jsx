@@ -1,7 +1,7 @@
-import style from './project.module.css'
+import style from './project.module.css';
+
 const Project =()=>{
     return(
-        <>
     <div className={style.box}>
         <h1>PROJECTS</h1>
         <div className={style.images}>
@@ -12,7 +12,6 @@ const Project =()=>{
             
         </div>
     </div>
-        </>
     )
 }
 
