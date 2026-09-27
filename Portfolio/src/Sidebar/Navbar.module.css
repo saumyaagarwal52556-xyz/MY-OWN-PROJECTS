@@ -1,18 +1,25 @@
-
 .Nav {
     border: 2px solid black;
-    position: relative;   
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px 15px;
 }
 
-.Nav ul{
+.Nav ul {
     color: black;
-    transition: ease-in 10s ;
+    margin: 0;
+    padding: 0;
+    transition: ease-in 10s;
     text-decoration: none;
     list-style: none;
-}
-.Nav ul li{
-    padding: 2px;
-    margin: 2px;
-    text-align: left;
+    display: flex;
+  flex-direction: column;
+  gap: 10px;
 }
 
+.Nav ul li {
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
